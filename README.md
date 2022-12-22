@@ -1,4 +1,4 @@
-## CF_SQL_Rockbuster_analysis
+# CF_SQL_Rockbuster_analysis
 ---
 Analysis of "Rockbuster" a fictitious DVD rental company. I used SQL to answer a series of business questions that can be used for its 2020 company strategy. This project was part of the career foundry Data Analysis course.
 
